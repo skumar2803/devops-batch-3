@@ -1,1 +1,4 @@
+reset is done to remove sensitive data
+DEV2 ADDED CHANGES TO FEATURE3
+
 this feature is from developer1
